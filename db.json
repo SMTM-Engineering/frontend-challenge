@@ -1,0 +1,1203 @@
+{ "products": [
+    {
+      "id": 0,
+      "name": "Saks Fifth Avenue Orange Shoes",
+      "price": 505,
+      "brand": "Saks Fifth Avenue",
+      "categories": [
+        "Shoes",
+        "Luxury"
+      ],
+      "in_stock": false,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/shoes.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Gucci Red Leggings",
+      "price": 45,
+      "brand": "Gucci",
+      "categories": [
+        "Leggings",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/leggings.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Louis Vuitton Blue Shoes",
+      "price": 413,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "Shoes",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/shoes.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Gap Blue Socks",
+      "price": 722,
+      "brand": "Gap",
+      "categories": [
+        "Socks",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/socks.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Gap Orange Hat",
+      "price": 303,
+      "brand": "Gap",
+      "categories": [
+        "Hat",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/hat.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Gucci Yellow Socks",
+      "price": 402,
+      "brand": "Gucci",
+      "categories": [
+        "Socks",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/socks.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Saks Fifth Avenue Yellow Socks",
+      "price": 741,
+      "brand": "Saks Fifth Avenue",
+      "categories": [
+        "Socks",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/socks.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Louis Vuitton Purple Jeans",
+      "price": 485,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "Jeans",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jeans.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Louis Vuitton Purple Jeans",
+      "price": 531,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "Jeans",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jeans.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Target Green Socks",
+      "price": 427,
+      "brand": "Target",
+      "categories": [
+        "Socks",
+        "Consumer"
+      ],
+      "in_stock": false,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/socks.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Gap Yellow T-Shirt",
+      "price": 22,
+      "brand": "Gap",
+      "categories": [
+        "T-Shirt",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/t-shirt.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Gucci Purple Hat",
+      "price": 689,
+      "brand": "Gucci",
+      "categories": [
+        "Hat",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/hat.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Louis Vuitton Red Shoes",
+      "price": 349,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "Shoes",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/shoes.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Louis Vuitton Orange Hat",
+      "price": 507,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "Hat",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/hat.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Gucci Red T-Shirt",
+      "price": 510,
+      "brand": "Gucci",
+      "categories": [
+        "T-Shirt",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/t-shirt.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Zara Yellow Jacket",
+      "price": 181,
+      "brand": "Zara",
+      "categories": [
+        "Jacket",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jacket.jpg"
+    },
+    {
+      "id": 16,
+      "name": "H&M Yellow Leggings",
+      "price": 116,
+      "brand": "H&M",
+      "categories": [
+        "Leggings",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/leggings.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Nike Green T-Shirt",
+      "price": 568,
+      "brand": "Nike",
+      "categories": [
+        "T-Shirt",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/t-shirt.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Zara Orange Jacket",
+      "price": 793,
+      "brand": "Zara",
+      "categories": [
+        "Jacket",
+        "Consumer"
+      ],
+      "in_stock": false,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jacket.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Gap Red T-Shirt",
+      "price": 205,
+      "brand": "Gap",
+      "categories": [
+        "T-Shirt",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/t-shirt.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Louis Vuitton Orange Shoes",
+      "price": 592,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "Shoes",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/shoes.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Gap Orange Leggings",
+      "price": 839,
+      "brand": "Gap",
+      "categories": [
+        "Leggings",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/leggings.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Saks Fifth Avenue Green T-Shirt",
+      "price": 676,
+      "brand": "Saks Fifth Avenue",
+      "categories": [
+        "T-Shirt",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/t-shirt.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Target Red Socks",
+      "price": 516,
+      "brand": "Target",
+      "categories": [
+        "Socks",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/socks.jpg"
+    },
+    {
+      "id": 24,
+      "name": "H&M Red Leggings",
+      "price": 416,
+      "brand": "H&M",
+      "categories": [
+        "Leggings",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/leggings.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Target Red Leggings",
+      "price": 611,
+      "brand": "Target",
+      "categories": [
+        "Leggings",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/leggings.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Nike Blue Jacket",
+      "price": 444,
+      "brand": "Nike",
+      "categories": [
+        "Jacket",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jacket.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Gap Green Jeans",
+      "price": 911,
+      "brand": "Gap",
+      "categories": [
+        "Jeans",
+        "Consumer"
+      ],
+      "in_stock": false,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jeans.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Saks Fifth Avenue Red Shoes",
+      "price": 756,
+      "brand": "Saks Fifth Avenue",
+      "categories": [
+        "Shoes",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/shoes.jpg"
+    },
+    {
+      "id": 29,
+      "name": "H&M Blue Leggings",
+      "price": 362,
+      "brand": "H&M",
+      "categories": [
+        "Leggings",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/leggings.jpg"
+    },
+    {
+      "id": 30,
+      "name": "H&M Yellow Socks",
+      "price": 170,
+      "brand": "H&M",
+      "categories": [
+        "Socks",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/socks.jpg"
+    },
+    {
+      "id": 31,
+      "name": "H&M Red Jacket",
+      "price": 903,
+      "brand": "H&M",
+      "categories": [
+        "Jacket",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jacket.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Louis Vuitton Blue Leggings",
+      "price": 822,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "Leggings",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/leggings.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Gap Green Jacket",
+      "price": 178,
+      "brand": "Gap",
+      "categories": [
+        "Jacket",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jacket.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Target Purple Jeans",
+      "price": 84,
+      "brand": "Target",
+      "categories": [
+        "Jeans",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jeans.jpg"
+    },
+    {
+      "id": 35,
+      "name": "H&M Purple Hat",
+      "price": 690,
+      "brand": "H&M",
+      "categories": [
+        "Hat",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/hat.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Gucci Yellow T-Shirt",
+      "price": 912,
+      "brand": "Gucci",
+      "categories": [
+        "T-Shirt",
+        "Luxury"
+      ],
+      "in_stock": false,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/t-shirt.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Nike Orange Jacket",
+      "price": 21,
+      "brand": "Nike",
+      "categories": [
+        "Jacket",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jacket.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Banana Republic Orange Jeans",
+      "price": 490,
+      "brand": "Banana Republic",
+      "categories": [
+        "Jeans",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jeans.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Louis Vuitton Red T-Shirt",
+      "price": 949,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "T-Shirt",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/t-shirt.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Gap Purple Jacket",
+      "price": 674,
+      "brand": "Gap",
+      "categories": [
+        "Jacket",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jacket.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Gucci Yellow T-Shirt",
+      "price": 889,
+      "brand": "Gucci",
+      "categories": [
+        "T-Shirt",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/t-shirt.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Louis Vuitton Purple Jacket",
+      "price": 403,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "Jacket",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jacket.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Gap Blue Leggings",
+      "price": 151,
+      "brand": "Gap",
+      "categories": [
+        "Leggings",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/leggings.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Nike Green Leggings",
+      "price": 871,
+      "brand": "Nike",
+      "categories": [
+        "Leggings",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/leggings.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Gap Yellow T-Shirt",
+      "price": 81,
+      "brand": "Gap",
+      "categories": [
+        "T-Shirt",
+        "Consumer"
+      ],
+      "in_stock": false,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/t-shirt.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Banana Republic Purple Shoes",
+      "price": 86,
+      "brand": "Banana Republic",
+      "categories": [
+        "Shoes",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/shoes.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Banana Republic Green T-Shirt",
+      "price": 4,
+      "brand": "Banana Republic",
+      "categories": [
+        "T-Shirt",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/t-shirt.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Gap Green Jeans",
+      "price": 351,
+      "brand": "Gap",
+      "categories": [
+        "Jeans",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jeans.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Louis Vuitton Orange Hat",
+      "price": 381,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "Hat",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/hat.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Nike Blue Jeans",
+      "price": 541,
+      "brand": "Nike",
+      "categories": [
+        "Jeans",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jeans.jpg"
+    },
+    {
+      "id": 51,
+      "name": "Louis Vuitton Yellow Jacket",
+      "price": 225,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "Jacket",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jacket.jpg"
+    },
+    {
+      "id": 52,
+      "name": "Louis Vuitton Orange T-Shirt",
+      "price": 752,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "T-Shirt",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/t-shirt.jpg"
+    },
+    {
+      "id": 53,
+      "name": "Banana Republic Green Jeans",
+      "price": 246,
+      "brand": "Banana Republic",
+      "categories": [
+        "Jeans",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jeans.jpg"
+    },
+    {
+      "id": 54,
+      "name": "Zara Yellow Hat",
+      "price": 481,
+      "brand": "Zara",
+      "categories": [
+        "Hat",
+        "Consumer"
+      ],
+      "in_stock": false,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/hat.jpg"
+    },
+    {
+      "id": 55,
+      "name": "Louis Vuitton Blue Socks",
+      "price": 748,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "Socks",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/socks.jpg"
+    },
+    {
+      "id": 56,
+      "name": "Gucci Orange Jeans",
+      "price": 83,
+      "brand": "Gucci",
+      "categories": [
+        "Jeans",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jeans.jpg"
+    },
+    {
+      "id": 57,
+      "name": "Banana Republic Orange Shoes",
+      "price": 482,
+      "brand": "Banana Republic",
+      "categories": [
+        "Shoes",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/shoes.jpg"
+    },
+    {
+      "id": 58,
+      "name": "Zara Red Jacket",
+      "price": 793,
+      "brand": "Zara",
+      "categories": [
+        "Jacket",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jacket.jpg"
+    },
+    {
+      "id": 59,
+      "name": "Nike Red Jeans",
+      "price": 668,
+      "brand": "Nike",
+      "categories": [
+        "Jeans",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jeans.jpg"
+    },
+    {
+      "id": 60,
+      "name": "Saks Fifth Avenue Yellow Socks",
+      "price": 801,
+      "brand": "Saks Fifth Avenue",
+      "categories": [
+        "Socks",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/socks.jpg"
+    },
+    {
+      "id": 61,
+      "name": "Gucci Yellow Jacket",
+      "price": 791,
+      "brand": "Gucci",
+      "categories": [
+        "Jacket",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jacket.jpg"
+    },
+    {
+      "id": 62,
+      "name": "Nike Blue Hat",
+      "price": 927,
+      "brand": "Nike",
+      "categories": [
+        "Hat",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/hat.jpg"
+    },
+    {
+      "id": 63,
+      "name": "Target Blue Shoes",
+      "price": 366,
+      "brand": "Target",
+      "categories": [
+        "Shoes",
+        "Consumer"
+      ],
+      "in_stock": false,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/shoes.jpg"
+    },
+    {
+      "id": 64,
+      "name": "Target Orange Jacket",
+      "price": 447,
+      "brand": "Target",
+      "categories": [
+        "Jacket",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jacket.jpg"
+    },
+    {
+      "id": 65,
+      "name": "Zara Purple Jeans",
+      "price": 782,
+      "brand": "Zara",
+      "categories": [
+        "Jeans",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jeans.jpg"
+    },
+    {
+      "id": 66,
+      "name": "Target Purple Leggings",
+      "price": 920,
+      "brand": "Target",
+      "categories": [
+        "Leggings",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/leggings.jpg"
+    },
+    {
+      "id": 67,
+      "name": "Zara Orange Jacket",
+      "price": 864,
+      "brand": "Zara",
+      "categories": [
+        "Jacket",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jacket.jpg"
+    },
+    {
+      "id": 68,
+      "name": "Louis Vuitton Orange Hat",
+      "price": 872,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "Hat",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/hat.jpg"
+    },
+    {
+      "id": 69,
+      "name": "Gap Orange Jeans",
+      "price": 442,
+      "brand": "Gap",
+      "categories": [
+        "Jeans",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jeans.jpg"
+    },
+    {
+      "id": 70,
+      "name": "Saks Fifth Avenue Red Leggings",
+      "price": 915,
+      "brand": "Saks Fifth Avenue",
+      "categories": [
+        "Leggings",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/leggings.jpg"
+    },
+    {
+      "id": 71,
+      "name": "Gucci Orange Socks",
+      "price": 944,
+      "brand": "Gucci",
+      "categories": [
+        "Socks",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/socks.jpg"
+    },
+    {
+      "id": 72,
+      "name": "Nike Red T-Shirt",
+      "price": 375,
+      "brand": "Nike",
+      "categories": [
+        "T-Shirt",
+        "Consumer"
+      ],
+      "in_stock": false,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/t-shirt.jpg"
+    },
+    {
+      "id": 73,
+      "name": "Zara Orange Socks",
+      "price": 904,
+      "brand": "Zara",
+      "categories": [
+        "Socks",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/socks.jpg"
+    },
+    {
+      "id": 74,
+      "name": "Louis Vuitton Purple Leggings",
+      "price": 696,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "Leggings",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/leggings.jpg"
+    },
+    {
+      "id": 75,
+      "name": "Louis Vuitton Green T-Shirt",
+      "price": 856,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "T-Shirt",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/t-shirt.jpg"
+    },
+    {
+      "id": 76,
+      "name": "H&M Red T-Shirt",
+      "price": 472,
+      "brand": "H&M",
+      "categories": [
+        "T-Shirt",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/t-shirt.jpg"
+    },
+    {
+      "id": 77,
+      "name": "Gap Yellow Leggings",
+      "price": 627,
+      "brand": "Gap",
+      "categories": [
+        "Leggings",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/leggings.jpg"
+    },
+    {
+      "id": 78,
+      "name": "Zara Yellow Jeans",
+      "price": 520,
+      "brand": "Zara",
+      "categories": [
+        "Jeans",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jeans.jpg"
+    },
+    {
+      "id": 79,
+      "name": "Target Purple Socks",
+      "price": 203,
+      "brand": "Target",
+      "categories": [
+        "Socks",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/socks.jpg"
+    },
+    {
+      "id": 80,
+      "name": "Nike Purple Hat",
+      "price": 513,
+      "brand": "Nike",
+      "categories": [
+        "Hat",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/hat.jpg"
+    },
+    {
+      "id": 81,
+      "name": "Louis Vuitton Purple T-Shirt",
+      "price": 278,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "T-Shirt",
+        "Luxury"
+      ],
+      "in_stock": false,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/t-shirt.jpg"
+    },
+    {
+      "id": 82,
+      "name": "Louis Vuitton Yellow Jeans",
+      "price": 519,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "Jeans",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jeans.jpg"
+    },
+    {
+      "id": 83,
+      "name": "Louis Vuitton Purple Shoes",
+      "price": 736,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "Shoes",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/shoes.jpg"
+    },
+    {
+      "id": 84,
+      "name": "Louis Vuitton Purple T-Shirt",
+      "price": 186,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "T-Shirt",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/t-shirt.jpg"
+    },
+    {
+      "id": 85,
+      "name": "Louis Vuitton Green Shoes",
+      "price": 817,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "Shoes",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/shoes.jpg"
+    },
+    {
+      "id": 86,
+      "name": "Zara Red Jacket",
+      "price": 441,
+      "brand": "Zara",
+      "categories": [
+        "Jacket",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jacket.jpg"
+    },
+    {
+      "id": 87,
+      "name": "Banana Republic Red T-Shirt",
+      "price": 579,
+      "brand": "Banana Republic",
+      "categories": [
+        "T-Shirt",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/t-shirt.jpg"
+    },
+    {
+      "id": 88,
+      "name": "Zara Green Shoes",
+      "price": 457,
+      "brand": "Zara",
+      "categories": [
+        "Shoes",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/shoes.jpg"
+    },
+    {
+      "id": 89,
+      "name": "Gucci Blue Socks",
+      "price": 692,
+      "brand": "Gucci",
+      "categories": [
+        "Socks",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/socks.jpg"
+    },
+    {
+      "id": 90,
+      "name": "Gap Green Shoes",
+      "price": 961,
+      "brand": "Gap",
+      "categories": [
+        "Shoes",
+        "Consumer"
+      ],
+      "in_stock": false,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/shoes.jpg"
+    },
+    {
+      "id": 91,
+      "name": "Zara Green Socks",
+      "price": 11,
+      "brand": "Zara",
+      "categories": [
+        "Socks",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/socks.jpg"
+    },
+    {
+      "id": 92,
+      "name": "Saks Fifth Avenue Blue Hat",
+      "price": 336,
+      "brand": "Saks Fifth Avenue",
+      "categories": [
+        "Hat",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/hat.jpg"
+    },
+    {
+      "id": 93,
+      "name": "H&M Orange Socks",
+      "price": 711,
+      "brand": "H&M",
+      "categories": [
+        "Socks",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/socks.jpg"
+    },
+    {
+      "id": 94,
+      "name": "Target Orange Hat",
+      "price": 475,
+      "brand": "Target",
+      "categories": [
+        "Hat",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/hat.jpg"
+    },
+    {
+      "id": 95,
+      "name": "Banana Republic Green T-Shirt",
+      "price": 103,
+      "brand": "Banana Republic",
+      "categories": [
+        "T-Shirt",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/t-shirt.jpg"
+    },
+    {
+      "id": 96,
+      "name": "Louis Vuitton Blue Hat",
+      "price": 178,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "Hat",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/hat.jpg"
+    },
+    {
+      "id": 97,
+      "name": "Louis Vuitton Green T-Shirt",
+      "price": 780,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "T-Shirt",
+        "Luxury"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/t-shirt.jpg"
+    },
+    {
+      "id": 98,
+      "name": "Nike Green Jacket",
+      "price": 25,
+      "brand": "Nike",
+      "categories": [
+        "Jacket",
+        "Consumer"
+      ],
+      "in_stock": true,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jacket.jpg"
+    },
+    {
+      "id": 99,
+      "name": "Louis Vuitton Green Jeans",
+      "price": 890,
+      "brand": "Louis Vuitton",
+      "categories": [
+        "Jeans",
+        "Luxury"
+      ],
+      "in_stock": false,
+      "image_url": "https://smtm-frontend-takehome.s3.amazonaws.com/jeans.jpg"
+    }
+  ]
+}
